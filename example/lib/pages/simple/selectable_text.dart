@@ -1,7 +1,7 @@
 import 'package:example/special_text/my_special_text_span_builder.dart';
 import 'package:extended_text_field/extended_text_field.dart';
 import 'package:ff_annotation_route_library/ff_annotation_route_library.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 @FFRoute(
   name: 'fluttercandies://SelectableTextDemo',

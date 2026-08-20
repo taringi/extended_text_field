@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 extension TextEditingControllerEx on TextEditingController {
   /// Check that the [selection] is inside of the bounds of [text].

@@ -4,7 +4,7 @@
 
 import 'package:extended_text_field/src/extended/widgets/text_field.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:flutter/services.dart'
     show SelectionChangedCause, SuggestionSpan;

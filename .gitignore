@@ -12,3 +12,4 @@ example/ios/Flutter/flutter_export_environment.sh
 .vscode/settings.json
 /pubspec.lock
 example/.flutter-plugins-dependencies
+**/Flutter/ephemeral/

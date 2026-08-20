@@ -2,7 +2,7 @@ import 'dart:math';
 
 import 'package:extended_image/extended_image.dart';
 import 'package:extended_text_field/extended_text_field.dart';
-import 'package:flutter/material.dart' hide Element;
+import 'package:material_ui/material_ui.dart' hide Element;
 import 'package:html/dom.dart' hide Text;
 import 'package:html/parser.dart';
 

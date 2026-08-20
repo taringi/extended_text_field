@@ -2,7 +2,7 @@ import 'package:collection/collection.dart';
 import 'package:example/example_routes.dart';
 import 'package:ff_annotation_route_library/ff_annotation_route_library.dart';
 import 'package:flutter/foundation.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import '../example_route.dart';

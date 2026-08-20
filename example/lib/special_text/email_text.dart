@@ -1,6 +1,6 @@
 import 'dart:ui' as ui show PlaceholderAlignment;
 import 'package:extended_text_library/extended_text_library.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 class EmailText extends SpecialText {
   EmailText(TextStyle textStyle, SpecialTextGestureTapCallback? onTap,
